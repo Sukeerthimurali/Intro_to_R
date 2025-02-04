@@ -1,3 +1,46 @@
 #Basic of R 
 ##Practice operations
 3+45+500-240
+?lm
+getwd()
+a=5
+a
+b=4
+b
+a+b
+a-b
+a*b
+a/b
+a^b
+log(100,10)
+log(100)
+a=10
+b=10
+a==b
+a!=b
+5==5
+a=(5==5)
+a
+F*20
+T*20
+T&T
+T&F
+F&F
+T/T
+V =c(0,9,19,15,25,625)
+v
+head(v)
+tail(v)
+v1=5:100
+v1
+head(v1)
+tail(v1)
+v2=4.8:9.6
+v2
+v3=seq(4,9,by=0.4)
+v3
+v4=seq(10,20,length=5)
+v4
+v5=seq(10,90,by=5)
+v5
+v5[2]
